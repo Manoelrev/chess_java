@@ -3,10 +3,6 @@
 
 Um jogo de xadrez feito a partir da biblioteca JFrame do java.
 
-
-## 🚀 Sobre mim e o projeto
-Olá sou um desenvolvedor por contra propria e essa está sendo minha primeira tentativa de fazer um jogo completo sem tutorial, então o projeto estará sempre evoluindo com o tempo até ficar satisfeito com o estado do projeto.
-
 ## 🚧 O que será adicionado?
 O projeto ainda não tá concluindo e provalvemente haverá grandes mundanças ao longo do tempo, contudo já é possivel:
 
